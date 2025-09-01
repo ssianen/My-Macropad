@@ -3,8 +3,8 @@
 // Copyright 2023 QMK
 // SPDX-License-Identifier: GPL-2.0-or-later
 
-//Compile with command: qmk compile -kb maxipad88 -km default
-//Deploy by dragging .build/maxipad88_default.uf2 to Raspberry Pi Pico (RP1-RP2) in Finder / File Explorer, should remove itself afterward
+//Compile with command: qmk compile -kb maxipad8 -km default
+//Deploy by dragging .build/maxipad8_default.uf2 to Raspberry Pi Pico (RP1-RP2) in Finder / File Explorer, should remove itself afterward
 
 #include QMK_KEYBOARD_H
 
