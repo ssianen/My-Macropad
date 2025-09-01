@@ -1,6 +1,6 @@
 # Maxipad8 Macropad
 
-![maxipad8](https://github.com/ssianen/My-Macropad/blob/main/maxipad88.jpg)
+![maxipad8](https://github.com/ssianen/My-Macropad/blob/main/maxipad8.jpg)
 
 The Maxipad8 is a simple macropad mapped to a 0-9 numpad, with arrow keys, backspace key, and return key. <br>
 Currently, the RGB, OLED display, and rotary encoder are not supported; they do not work likely due to wiring issues. <br>
