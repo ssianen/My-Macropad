@@ -1,8 +1,9 @@
-# maxipad88
+# Maxipad88 
 
-![maxipad88]()
+![maxipad88](https://github.com/ssianen/My-Macropad/blob/main/maxipad88.jpg)
 
-A simple macropad mapped to 0-9 numpad, arrow keys, backspace, and enter/return key
+The Maxipad88 is a simple macropad mapped to a 0-9 numpad, arrow keys, backspace key, and return key. 
+Currently, the RGB, OLED display, and rotary encoder are not supported; they do not work likely due to wiring issues.
 
 * Keyboard Maintainer: [ssianen](https://github.com/ssianen)
 * Hardware Supported: Custom PCB
