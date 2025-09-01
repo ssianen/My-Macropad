@@ -2,7 +2,7 @@
 
 ![maxipad8](https://github.com/ssianen/My-Macropad/blob/main/maxipad88.jpg)
 
-The Maxipad88 is a simple macropad mapped to a 0-9 numpad, with arrow keys, backspace key, and return key. <br>
+The Maxipad8 is a simple macropad mapped to a 0-9 numpad, with arrow keys, backspace key, and return key. <br>
 Currently, the RGB, OLED display, and rotary encoder are not supported; they do not work likely due to wiring issues. <br>
 In this project, I got to explore aspects of electrical and mechanical engineering. Through the hands-on workshops, I developed skills in <br>
 schematic and PCB design (KiCad), enclosure design (Autodesk Fusion), firmware programming (QMK), and soldering to build a custom macropad.
@@ -29,7 +29,10 @@ Enter the bootloader in 3 ways:
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available.
 
 
-Compile with command: qmk compile -kb maxipad8 -km default
+Compile with command: 
+```
+qmk compile -kb maxipad8 -km default
+```
 Deploy by dragging .build/maxipad8_default.uf2 to Raspberry Pi Pico (RP1-RP2) in Finder / File Explorer. <br>
 If successful, RP1-RP2 should disappear.
 
