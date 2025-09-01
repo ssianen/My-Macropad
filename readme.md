@@ -1,12 +1,11 @@
 # maxipad88
 
-![maxipad88](imgur.com image replace me!)
+![maxipad88]()
 
-*A short description of the keyboard/project*
+A simple macropad mapped to 0-9 numpad, arrow keys, backspace, and enter/return key
 
 * Keyboard Maintainer: [ssianen](https://github.com/ssianen)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Custom PCB
 
 Make example for this keyboard (after setting up your build environment):
 
