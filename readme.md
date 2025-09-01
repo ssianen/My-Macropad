@@ -1,4 +1,4 @@
-# Maxipad88 
+# Maxipad88 Macropad
 
 ![maxipad88](https://github.com/ssianen/My-Macropad/blob/main/maxipad88.jpg)
 
